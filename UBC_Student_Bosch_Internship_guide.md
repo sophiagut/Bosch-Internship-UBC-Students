@@ -4,8 +4,12 @@ Hello! Welcome to this .git page. In this repository, several UBC students will 
 to peacefully come to Stuttgart! 
 
 ##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+[Why Apply for an Internship at Bosch](#first_section)  
+[Preparing Departure to Germany](#second_section)  
+
+
+...snip...   
+<a name="first_section"/>
+## Why Apply for an Internship at Bosch?
+
+<a name="second_section"/>
