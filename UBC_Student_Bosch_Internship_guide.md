@@ -12,6 +12,8 @@ to peacefully come to Stuttgart!
 <a name="first_section"/>
 ## Why Apply for an Internship at Bosch?
 
+some filler text, but wow you should apply to BOSCH 'cause they absolutely DO NOT FORCE ME to write that down
+
 <a name="second_section"/>
 ## Preparing Departure to Germany 
 
