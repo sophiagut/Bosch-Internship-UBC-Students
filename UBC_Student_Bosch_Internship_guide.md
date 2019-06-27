@@ -9,12 +9,12 @@ to peacefully come to Stuttgart!
 
 
 ...snip...   
-<a name="first_section"/>
+
 ## Why Apply for an Internship at Bosch?
 
 some filler text, but wow you should apply to BOSCH 'cause they absolutely DO NOT FORCE ME to write that down
 
-<b name="second_section"/>
-# Preparing Departure to Germany
+
+## Preparing Departure to Germany
 
 What else can I talk about? OH YEAH CITY LINK AND INSURANCE
