@@ -14,8 +14,7 @@ to peacefully come to Stuttgart!
 
 some filler text, but wow you should apply to BOSCH 'cause they absolutely DO NOT FORCE ME to write that down
 
-
-<a name="second?section"/>
-## Departure to Germany
+<b name="second_section"/>
+# Preparing Departure to Germany
 
 What else can I talk about? OH YEAH CITY LINK AND INSURANCE
