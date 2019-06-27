@@ -14,3 +14,5 @@ to peacefully come to Stuttgart!
 
 <a name="second_section"/>
 ## Preparing Departure to Germany 
+
+What else can I talk about? OH YEAH CITY LINK AND INSURANCE
