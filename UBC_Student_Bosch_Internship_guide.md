@@ -4,19 +4,19 @@ Hello! Welcome to this .git page. In this repository, several UBC students will 
 to peacefully come to Stuttgart! 
 
 ## Table of Contents  
-[Why Apply for an Internship at Bosch](#first_section)  
-[Preparing Departure to Germany](#second_section)  
+[Why Apply for an Internship at Bosch](#firstsection)  
+[Preparing Departure to Germany](#secondsection)  
+  
+<a name = "firstsection"/> 
 
+## 1. Why Apply for an Internship at Bosch?
 
-...snip...   
-<a name = "first_section"> 
-  ## Why Apply for an Internship at Bosch?</a>
- <p>
 some filler text, but wow you should apply to BOSCH 'cause they absolutely DO NOT FORCE ME to write that down
-</p>
+ I WILL PUT A LOT OF TEXT HERE!
+ 
+<a name = "secondsection"/> 
+  
+  ## 2. Preparing Departure to Germany
 
-<a name = "second_section">
-## Preparing Departure to Germany</a>
-<p>
 What else can I talk about? OH YEAH CITY LINK AND INSURANCE
-</p>
+
