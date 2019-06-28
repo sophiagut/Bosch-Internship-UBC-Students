@@ -22,14 +22,13 @@ some filler text, but wow you should apply to BOSCH 'cause they absolutely DO NO
   ## 2. Preparing Departure to Germany
 
 What else can I talk about? OH YEAH CITY LINK AND INSURANCE
+I WILL PUT A LOT OF TEXT HERE! AND SOME PICTURES OF MAHDIN OF COURSE
 
 <a name = "thirdsection/">
   
   ## 3. Another Test Section
   
 Another test text
-
-
 
 <a name = "fourthsection/">
   
