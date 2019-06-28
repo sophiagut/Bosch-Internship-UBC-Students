@@ -1,3 +1,4 @@
+<!-- toc -->
 # A SMALL GUIDE TO SETTLE DOWN IN STUTTGART AS UBC STUDENT
 
 Hello! Welcome to this .git page. In this repository, several UBC students will talk and explain as detailed as possible everything needed 
@@ -8,6 +9,7 @@ to peacefully come to Stuttgart!
 [Preparing Departure to Germany](#secondsection)  
 [Third Section ](#thirdsection)   
 [Fourth Section ](#fourthsection)   
+
 <a name = "firstsection"/> 
 
 ## 1. Why Apply for an Internship at Bosch?
