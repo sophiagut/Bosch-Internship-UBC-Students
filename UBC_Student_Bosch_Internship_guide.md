@@ -26,7 +26,7 @@ I WILL PUT A LOT OF TEXT HERE! AND SOME PICTURES OF MAHDIN OF COURSE
 
 <a name = "thirdsection/">
   
-  ## 3. Another Test Section
+  ## 3. Bank Stuff, yeah interns can have perks too!
   
 Another test text
 
