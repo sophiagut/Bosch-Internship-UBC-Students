@@ -9,6 +9,46 @@ to peacefully come to Stuttgart!
 [Preparing Departure to Germany](#secondsection)  
 [Third Section ](#thirdsection)   
 [Fourth Section ](#fourthsection)   
+[Dockerfile.vim](#dockerfilevim)
+  [Leaving UBC](#leaving_ubc)
+  [Insurance] (#insurance)
+  [Qualifying for AMS Student Care] (AMS_student_care)
+Other Options
+Visa
+International students
+US Citizens
+Looking for housing before arriving 
+Plane Tickets/Preparing for departure
+Settling Down in Stuttgart
+Find a place
+Air Bnb
+Stuttgart Downtown/Leonberg/Others…
+Renting 
+Housing registration
+Commuting
+City-Link
+SPLTr
+S-Bahn/U-Bahn
+Driving (Diesel)
+Bank
+Go to Deutsche Bank
+Other Banks
+Phone Plan
+Pre-paid
+Best companies
+Bosch Work Environment 
+Getting paid at Bosch
+Food - Intern Discount
+Flex time/Vacation
+Learning German
+How?
+Helpful tools and resources
+Things to do in Stuttgart
+Parties
+Hikes
+Travel, etc…
+Expats in Stuttgart FB group
+Bonus: Like a bOsCh
 
 <a name = "firstsection"/> 
 
