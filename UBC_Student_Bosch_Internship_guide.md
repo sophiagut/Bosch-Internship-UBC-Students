@@ -45,30 +45,34 @@ to peacefully come to Stuttgart!
   [Expats in Stuttgart FB group] (#expact_stuttgart)
 [Bonus: Like a bOsCh] (#bonus)
 
-<a name = "firstsection"/> 
+<a name = "leaving_ubc"/> 
 
-## 1. Why Apply for an Internship at Bosch?
+## 1. Leaving UBC
 
 some filler text, but wow you should apply to BOSCH 'cause they absolutely DO NOT FORCE ME to write that down
  I WILL PUT A LOT OF TEXT HERE!
  
-<a name = "secondsection"/> 
+<a name = "insurance"/> 
   
-  ## 2. Preparing Departure to Germany
+  ### 1.1. Insurance
 
 What else can I talk about? OH YEAH CITY LINK AND INSURANCE
 I WILL PUT A LOT OF TEXT HERE! AND SOME PICTURES OF MAHDIN OF COURSE
 
-<a name = "thirdsection/">
+<a name = "AMS_student_care/">
   
-  ## 3. Bank Stuff, yeah interns can have perks too!
-  
-Another test text
-
-<a name = "fourthsection/">
-  
-  ## 4. Another Test Section
+  #### 1.1.1 Qualifying for AMS Student Care
   
 Another test text
 
-The end
+<a name = "leaving_ubc_else/">
+  
+  #### 1.1.2. Other Options
+  
+Another test text
+
+<a name = "visa/">
+  
+  ### 1.2. Visa
+
+
