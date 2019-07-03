@@ -6,9 +6,9 @@ to peacefully come to Stuttgart!
 
 ## Table of Contents  
 [Leaving UBC](#leaving_ubc)
-  [Insurance] (#insurance)
-    [Qualifying for AMS Student Care] (#AMS_student_care)
-    [Other Options] (#leaving_ubc_else)
+[Insurance] (#insurance)
+[Qualifying for AMS Student Care] (#AMS_student_care)
+[Other Options] (#leaving_ubc_else)
   [Visa](#visa)
     [International students](#international_visa)
     [US Citizens] (#us_citizens)
