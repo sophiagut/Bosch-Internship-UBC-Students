@@ -26,37 +26,62 @@ to peacefully come to Stuttgart!
    <li> <a href="#find_place"> 2.1 Find a place</a>
     <ul>
      <li> <a href="#air_bnb"> 2.1.1 Air Bnb </a> </li>
-2.1.2 [Stuttgart Downtown/Leonberg/Others…](#stuttgart_lonberg) <br/>
-2.1.3. [Renting](#renting) <br/>
-2.1.3.1.[Housing registration](#house_registration) <br/>
-2.2. [Commuting](#commuting) <br/>
-2.2.1. [City-Link](#city_link) <br/>
-2.2.2. [SPLTr](#spltr) <br/>
-2.2.3. [S-Bahn/U-Bahn](#s_bahn) <br/>
-2.2.4. [Driving (Diesel)](#driving) <br/>
-2.3. [Bank](#bank) <br/>
-2.3.1. [Go to Deutsche Bank](#bank_2) <br/>
-2.3.2. [Other Banks](#other_banks) <br/>
-2.4. [Phone Plan](#phoneplan) <br/>
-2.4.1. [Pre-paid](#pre_paid) <br/>
-2.4.2. [Best companies](#best_companies) <br/>
-3. [Bosch Work Environment](#work_environment) <br/>
-[Getting paid at Bosch](#get_paid) <br/>
-[Food - Intern Discount](#food) <br/>
-[Flex time/Vacation](#flex_time) <br/>
-[Learning German](#learning_german) <br/>
-[How?](#leaning_german_how) <br/>
-[Helpful tools and resources](#tools_and_resources) <br/>
-[Life in Stuttgart](#life_in_stuttgart)) <br/>
-[Parties](#parties) <br/>
-[Hikes](#hikes) <br/>
-[Travel, etc…](#travels) <br/>
-[Expats in Stuttgart FB group](#expact_stuttgart) <br/>
-4. [Bonus: Like a bOsCh](#bonus) <br/>
+     <li> <a href = "#stuttgart_lonberg"> 2.1.2 Stuttgart Downtown/Leonberg/Others… </a> </li>
+     <li> <a href = "#renting"> 2.1.3 Renting </a> 
+     <ul>
+      <li> <a href = "#house_registration"> Housing registration </a> </li>
+     </ul>
+     </li>
+     </ul>
+   </li>
+   <li> <a href = "#commuting"> 2.2 Commuting </a>
+    <ul>
+     <li> <a href = "#city_link"> 2.2.1 City-Link </a></li>
+     <li> <a href = "#spltr"> 2.2.2 SPLTr </a></li>
+     <li> <a href = "#s_bahn"> 2.2.3 S-Bahn/U-Bahn</a></li>
+     <li> <a href = "#driving"> 2.2.4 Driving (Diesel)</a></li>
+    </ul>
+   </li>
+   <li> <a href = "#bank"> 2.3 Bank </a>
+    <ul>
+     <li> <a href = "#bank_2"> 2.3.1 Go to Deutsche Bank </a></li>
+     <li> <a href = "#other_banks"> 2.3.2 Other Banks</a></li>
+    </ul>
+   </li>
+   <li><a href = "#phoneplan"> 2.4 Phone Plan</a>
+    <ul>
+     <li><a href = "#pre_paid"> 2.4.1 Pre-paid </a> </li>
+     <li><a href = "#best_companies"> 2.4.2 Best companies</a></li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+ <li><a href = "#work_environment"> 3. Bosch Work Environment</a>
+  <ul>
+   <li><a href = "#getting_paid"> 3.1 Getting paid at Bosch </a></li>
+   <li><a href = "#food"> 3.2 Food - Intern Discount</a></li>
+   <li><a href = "#flex_time"> 3.3 Flex time/Vacation</a></li>
+  </ul>
   </li>
+ <li> <a href = "#learning_german"> 4. Learning German</a>
+  <ul>
+   <li><a href = "#leaning_german_how"> 4.1 How?</a></li>
+   <li><a href = "#tools_and_resources"> 4.2 Helpful tools and resources</a></li>
+  </ul>
+ </li>
+ <li><a href = "#life_in_stuttgart"> 5. Life in Stuttgart</a>
+  <ul>
+   <li><a href = "#parties"> 5.1 Parties</a></li>
+   <li><a href = "#hikes"> 5.2 Hikes</a></li>
+   <li><a href = "#travels"> 5.3 Travel, etc…</a></li>
+   <li><a href = "#expact_stuttgart"> 5.4 Expats in Stuttgart FB group</a></li>
+  </ul>
+ </li>
+ <li><a href = "#bonus"> 6 Bonus: Like a bOsCh</a></li>
+ </ul>
+ </li>
  </ul>
  
-
 <h2 id="leaving_ubc"> 1. Leaving UBC</h2>
 
 some filler text, but wow you should apply to BOSCH 'cause they absolutely DO NOT FORCE ME to write that down
