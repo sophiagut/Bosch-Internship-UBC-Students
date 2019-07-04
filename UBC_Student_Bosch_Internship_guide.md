@@ -87,16 +87,14 @@ to peacefully come to Stuttgart!
 some filler text, but wow you should apply to BOSCH 'cause they absolutely DO NOT FORCE ME to write that down
  I WILL PUT A LOT OF TEXT HERE!
  
-<a name = "insurance"/> 
+<h3 id="insurance"> 1.1 Insurance </h3>
   
-  ### 1.1. Insurance
-
 What else can I talk about? OH YEAH CITY LINK AND INSURANCE
 I WILL PUT A LOT OF TEXT HERE! AND SOME PICTURES OF MAHDIN OF COURSE
 
-<a name = "ams"/>
-  
-  #### 1.1.1 Qualifying for AMS Student Care
+
+<h4 id="ams"> 1.1.1 Qualifying for AMS Student Care </h4>
+
   
 Another test text
 
