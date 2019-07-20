@@ -6,7 +6,7 @@ to peacefully come to Stuttgart!
 
 ## Table of Contents  
 <ul>
-<li> <a href="#leaving_ubc">1 Leaving UBC</a>
+<li> <a href="#leaving_ubc">1. Leaving UBC</a>
  <ul>
   <li> <a href="#insurance">1.1 Insurance </a>
   <ul>
@@ -16,17 +16,17 @@ to peacefully come to Stuttgart!
   <li> <a href="#visa">1.2  Visa </a>
   <ul>
    <li> <a href="#international_visa"> 1.2.1 International students</a> </li>
-   <li> <a href="#us_citizens"> 1.2.2 [US Citizens](#us_citizens) </a></li>
+   <li> <a href="#us_citizens"> 1.2.2 US Citizens </a></li>
   </ul>
-  <li> <a href="#looking_for_house"> 1.2 Looking for housing before arriving </a> </li>
-  <li> <a href="#plane_tickets"> 1.3 Plane Tickets/Preparing for departure </a></li>
+  <li> <a href="#looking_for_house"> 1.3 Looking for housing before arriving </a> </li>
+  <li> <a href="#plane_tickets"> 1.4 Plane Tickets/Preparing for departure </a></li>
  </ul>
- <li> <a href="#settling_stuttgart"> 2 Settling Down in Stuttgart </a> 
+ <li> <a href="#settling_stuttgart"> 2. Settling Down in Stuttgart </a> 
   <ul>
    <li> <a href="#find_place"> 2.1 Find a place</a>
     <ul>
      <li> <a href="#air_bnb"> 2.1.1 Air Bnb </a> </li>
-     <li> <a href = "#stuttgart_lonberg"> 2.1.2 Stuttgart Downtown/Leonberg/Others… </a> </li>
+     <li> <a href = "#stuttgart_lonberg"> 2.1.2 Stuttgart and other areas </a> </li>
      <li> <a href = "#renting"> 2.1.3 Renting </a> 
      <ul>
       <li> <a href = "#house_registration"> Housing registration </a> </li>
@@ -95,18 +95,32 @@ I WILL PUT A LOT OF TEXT HERE! AND SOME PICTURES OF MAHDIN OF COURSE
 
 <h4 id="ams"> 1.1.1 Qualifying for AMS Student Care </h4>
 
-  
-Another test text
+<h4 id="leaving_ubc_else"> 1.1.2 Other Options </h4>
 
-<a name = "leaving_ubc_else"/>
-  
-  #### 1.1.2. Other Options
-  
-Another test text
+<h3 id="visa"> 1.2 Visa </h3>
 
-<a name = "visa"/>
-  
-  ### 1.2. Visa
+<h4 id="international_visa"> 1.2.1 International students </h4> 
 
-<a name = "international_visa"/>
-#### 1.2.1. International students
+
+<h4 id="us_citizens"> 1.2.1 US citizens </h4> 
+
+Aie aie aie you're in trouble! The easiest for you is to go to Torronto an have the Visa processed here. If Torronto is not possible, prepare for battle with the German administration! 
+
+<h3 id="looking_for_house"> 1.3 Looking for housing before arriving </h3>
+
+<h3 id="plane_tickets"> 1.4 Plane Tickets/Preparing for departure </h3>
+
+<h2 id="settling_stuttgart"> 2. Settling Down in Stuttgart </h2>
+
+<h3 id="find_place"> 2.1 Find a place </h3>
+  
+<h4 id="air_bnb"> 2.1.1 Air Bnb </h4>
+
+<h4 id="stuttgart_lonberg"> 2.1.2 Stuttgart and other areas </h4>
+  
+<h4 id="renting"> 2.1.3 Renting </h4>
+
+<h5 id="house_registration"> Housing registration </h5>
+  
+<h2 id="work_environment"> 3. Bosch Work Environment </h2>
+
