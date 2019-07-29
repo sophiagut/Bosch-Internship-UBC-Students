@@ -146,4 +146,5 @@ Aie aie aie you're in trouble! The easiest for you is to go to Torronto an have 
 
 <h3 id="expats_stuttgart"> 5.4 Expats in Stuttgart FB group </h3>
 
-<h2 id="expats_stuttgart"> 6. Like a bOsCh </h2>
+<h2 id="bonus"> 6. Bonus: Like a bOsCh </h2>
+
