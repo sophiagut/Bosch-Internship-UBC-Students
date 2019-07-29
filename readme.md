@@ -152,6 +152,4 @@ Aie aie aie you're in trouble! The easiest for you is to go to Torronto an have 
 
 The BEST video you will ever see... and need. 
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/v2kV6pgJxuo">
-</iframe>
+<iframe width="1352" height="595" src="https://www.youtube.com/embed/v2kV6pgJxuo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
