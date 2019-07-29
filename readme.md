@@ -89,11 +89,13 @@ some filler text, but wow you should apply to BOSCH 'cause they absolutely DO NO
  
 <h3 id="insurance"> 1.1 Insurance </h3>
   
-What else can I talk about? OH YEAH CITY LINK AND INSURANCE
-I WILL PUT A LOT OF TEXT HERE! AND SOME PICTURES OF MAHDIN OF COURSE
-
+You need health insurance to live and work in Germany. This is a crucial component of applying for your residence permit (if you’re a non-EU citizen).
 
 <h4 id="ams"> 1.1.1 Qualifying for AMS Student Care </h4>
+
+AMS Student Care health insurance coverage is part of your student fees at UBC. Part of this coverage includes travel health insurance. However, this health insurance is only active (regardless of if you paid for it with your co-op tuition) if you are paying for MSP (provided by the providence of British Columbia) or a similar basic health insurance for BC.
+
+You only qualify for MSP if you are living as a residence in BC. If you leave BC for up to 6 months, this is ok. You can continue to pay for MSP online and you will still qualify for the travel health insurance with AMS Student Care. Anything longer than 6 months
 
 <h4 id="leaving_ubc_else"> 1.1.2 Other Options </h4>
 
