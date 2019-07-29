@@ -151,5 +151,13 @@ Aie aie aie you're in trouble! The easiest for you is to go to Torronto an have 
 <h2 id="bonus"> 6. Bonus: Like a bOsCh </h2>
 
 The BEST video you will ever see... and need. 
-
-<iframe width="1352" height="595" src="https://www.youtube.com/embed/v2kV6pgJxuo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="plyr__video-embed" id="player">
+ <iframe 
+         width="1352" height="595" 
+         src="https://www.youtube.com/embed/v2kV6pgJxuo" 
+         frameborder="0" 
+         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+         allowfullscreen
+ ></iframe>
+</div>
+ 
