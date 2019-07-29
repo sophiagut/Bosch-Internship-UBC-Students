@@ -65,7 +65,7 @@ to peacefully come to Stuttgart!
   </li>
  <li> <a href = "#learning_german"> 4. Learning German</a>
   <ul>
-   <li><a href = "#leaning_german_how"> 4.1 How?</a></li>
+   <li><a href = "#learning_german_how"> 4.1 How?</a></li>
    <li><a href = "#tools_and_resources"> 4.2 Helpful tools and resources</a></li>
   </ul>
  </li>
@@ -74,10 +74,10 @@ to peacefully come to Stuttgart!
    <li><a href = "#parties"> 5.1 Parties</a></li>
    <li><a href = "#hikes"> 5.2 Hikes</a></li>
    <li><a href = "#travels"> 5.3 Travel, etc…</a></li>
-   <li><a href = "#expact_stuttgart"> 5.4 Expats in Stuttgart FB group</a></li>
+   <li><a href = "#expats_stuttgart"> 5.4 Expats in Stuttgart FB group</a></li>
   </ul>
  </li>
- <li><a href = "#bonus"> 6 Bonus: Like a bOsCh</a></li>
+ <li><a href = "#bonus"> 6. Bonus: Like a bOsCh</a></li>
  </ul>
  </li>
  </ul>
@@ -124,3 +124,26 @@ Aie aie aie you're in trouble! The easiest for you is to go to Torronto an have 
   
 <h2 id="work_environment"> 3. Bosch Work Environment </h2>
 
+<h3 id="getting_paid"> 3.1 Getting Paid at Bosch </h3>
+
+<h3 id="food"> 3.2 Food - Intern Discount </h3>
+
+<h3 id="flex_time"> 3.3 Flex time/Vacation </h3>
+
+<h2 id="learning_german"> 4. Learning German </h2>
+
+<h3 id="learning_german_how"> 4.1 How? </h3>
+
+<h3 id="tools_and_resources"> 4.2 Helpful tools and resources </h3>
+
+<h2 id="life_in_stuttgart"> 5. Life in Stuttgart </h2>
+
+<h3 id="parties"> 5.1 Parties </h3>
+
+<h3 id="hikes"> 5.2 Hikes </h3>
+
+<h3 id="travels"> 5.3 Travel, etc... </h3>
+
+<h3 id="expats_stuttgart"> 5.4 Expats in Stuttgart FB group </h3>
+
+<h2 id="expats_stuttgart"> 6. Like a bOsCh </h2>
