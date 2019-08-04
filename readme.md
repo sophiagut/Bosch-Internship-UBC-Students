@@ -247,19 +247,19 @@ You don’t need to learn German to perform well at Bosch. But boy, oh boy, it w
 There are many resources out there to aid you in learning German if you’re interested. Find stuff that works for your brain and you enjoy doing on a daily basis. Below are a few resources we’ve found to be helpful.
 
 <ul>
- <li> Duolingo: 
+ <li> <b> Duolingo </b>
   <ul>
    <li> Great for getting started and building a foundation of the language. Best if used daily. At first, it can seem silly and childish. But as you advance, you can start to recognize patterns in the language and it can become a powerful tool.
    </li>
   </ul>
  </li>
- <li> Google Translate:
+ <li> <b> Google Translate: </b>
   <ul>
    <li>Great when you really need a quick translation. You can download languages to your phone, translate text directly from photos and more. 
    </li>
   </ul>
  </li>
- <li> Podcasts:
+ <li> <b> Podcasts </b>
   <ul>
    <li>There are a lot of podcasts out there trying to teach you German. Below are a few that have been worth a listen that can be found through Apple Podcasts and other platforms.
    </li>
@@ -269,13 +269,13 @@ There are many resources out there to aid you in learning German if you’re int
     </li>
   </ul>
  </li>
- <li>Coffee Break German: <a href= "https://radiolingua.com/category/coffee-break-german/"> link here </a>
+ <li> Coffee Break German: <a href= "https://radiolingua.com/category/coffee-break-german/"> link here </a>
   <ul>
    <li>Mostly in English, this podcast will explain grammar rules and teach you new German vocabulary. It also invites you to practice speaking aloud and recall phrases from previous episodes.</li></ul></li>
    </li>
   </ul>
-  <li> TV shows:
-   <ul>
+ <li> <b> TV shows </b>
+  <ul>
    <li>Great for immersing yourself into the German language and culture. You can play most shows with English or German subtitles while listening in German. The shows below can be found on Netflix.
     <ul>
      <li> Dark </li>
@@ -287,7 +287,7 @@ There are many resources out there to aid you in learning German if you’re int
  </li>
 </ul>
 <ul>
- <li> Native German speakers 
+ <li> <b> Native German speakers </b>
   <ul>
    <li>Most Germans appreciate others who are working to learn German. Reach out to your new colleagues and friends for help with pronunciations and translations. Practice speaking with them and ask for feedback. 
    </li>
