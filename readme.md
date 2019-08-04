@@ -131,7 +131,7 @@ Air bnb is always a great ressource to quickly find a transition place until you
 
 Stuttgart might sound attractive but it is EXTREMELY expensive. More than half our poor salary can go for rent if we're not careful. Chosing a place closer to Renningen might be a good choice. We would recommand Leonberg and it's environt. Wie-der-Stadt could also be a good choice (only two S-bahn station away). 
 
-Finding a place in Renningen would be best but also expensive. This is due that the two main economic actors in Renningen are Bosch (1200 employees), and the American military base. As a result people move a lot in and out of Renningen so the prices goes up.
+Finding a place in Renningen would be best but also expensive. This is due that the two main economic actors in Renningen are Bosch (1200 employees) and the American military base. As a result people move a lot in and out of Renningen so the prices goes up.
   
 <h4 id="renting"> 2.1.3 Renting </h4>
 
