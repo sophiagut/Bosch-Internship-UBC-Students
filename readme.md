@@ -115,7 +115,9 @@ Aie aie aie you're in trouble! The easiest for you is to go to Torronto an have 
 <h2 id="settling_stuttgart"> 2. Settling Down in Stuttgart </h2>
 
 <h3 id="find_place"> 2.1 Find a place </h3>
-  
+
+The most important thing to know before you start looking for a place to stay at is commute and the transport system. (Refer to section 2.2) 
+
 <h4 id="air_bnb"> 2.1.1 Air Bnb </h4>
 
 <h4 id="stuttgart_lonberg"> 2.1.2 Stuttgart and other areas </h4>
