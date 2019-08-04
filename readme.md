@@ -253,7 +253,7 @@ There are many resources out there to aid you in learning German if you’re int
    </li>
   </ul>
  </li>
- <li> <b> Google Translate: </b>
+ <li> <b> Google Translate </b>
   <ul>
    <li>Great when you really need a quick translation. You can download languages to your phone, translate text directly from photos and more. 
    </li>
