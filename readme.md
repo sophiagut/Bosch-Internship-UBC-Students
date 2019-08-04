@@ -128,7 +128,7 @@ The most important thing to know before you start looking for a place to stay at
 
 <h3 id="commuting"> 2.2 Commuting </h3>
 
-Commuting to work is maybe the parameter that will most impact your life in Germany. The choice between a 30min and a 1h30 long commute is easy to make (at least for me). The first option allows one to have more free-time. The condition in which you commute is also important. Would you rather have a 1h30 long bus ride with wifi or a 1h30 long train ride with 3 connections and no wifi nor AC. This section is here to help you understand how stuttgart train system works and how you can easily travel to your work place without losing time/energy.
+Commuting to work is maybe the parameter that will most impact your life in Germany. The choice between a 30min and a 1h30 long commute is easy to make (at least for me). The first option allows one to have more free-time. The condition in which you commute is also important. Would you rather have a 1h30 long bus ride with wifi or a 1h30 long train ride with 3 train changement and no wifi nor AC. This section is here to help you understand how stuttgart train system works and how you can easily travel to your work place without losing time/energy.
 
 <h4 id = "city_link"> 2.2.1 City-Link </h4>
 
