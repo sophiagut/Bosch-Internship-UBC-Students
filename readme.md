@@ -263,7 +263,8 @@ The BEST video you will ever see... and need.
          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
          allowfullscreen
  ></iframe>
- 
+ <br/> 
+ <br/>
  Collaboration: Sophia Gut, Alexandre Guichet
 </div>
  
