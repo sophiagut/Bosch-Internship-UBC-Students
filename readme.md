@@ -281,6 +281,7 @@ There are many resources out there to aid you in learning German if you’re int
  </ul>
   </li>
   </ul>
+  <ul>
   <li> Native German speakers 
  <ul>
  <li>Most Germans appreciate others who are working to learn German. Reach out to your new colleagues and friends for help with pronunciations and translations. Practice speaking with them and ask for feedback. </li>
