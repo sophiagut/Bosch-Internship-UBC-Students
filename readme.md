@@ -140,7 +140,7 @@ PROS:
 <li> Free </li>
 <li> Fast (40 min from Downtown) </li>
 <li> Wifi + AC </li>
-<li> Several buses other the day </li><br/>
+<li> Several buses per the day </li><br/>
 CONS: <br/><br/>
  <&#39none> <br/><br/>
  
