@@ -136,7 +136,7 @@ The most important thing to know before you start looking for a place to stay at
 
 <h4 id="driving"> 2.2.4 Driving </h4>
 
-<h3 id= "bank"> 2.3 </h3>
+<h3 id= "bank"> 2.3 Bank</h3>
 
 <h4 id="bank_2"> 2.3.1 Go to Deutsche Bank (need better title) </h4>
 
