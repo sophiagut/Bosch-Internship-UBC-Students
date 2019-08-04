@@ -184,7 +184,9 @@ There are student plans and other plans available but since I am not using them 
 
 For thoses are tempted to use a car around Stuttgart there are few things you need to know. First of I would say it is worth for many reasons (cheaper than commuting, SPLTr,  travels to black forest/europe/etc., hollidays with other interns, live closer to work, etc.). However, Germany has some STRICT ecological restriction regarding diesel cars allowed in certain areas. 
 
-There is an environment restriction for diesel cars. Some diesel cars are not allowed to drive in certain zones. The fine is 80€. This is rather serious as in some areas the air quality is extremely bad. The restriction is about the particle emissions (how the engine burns the fuel) so there is nothing we could do. 
+There is an environment restriction for diesel cars. Some diesel cars are not allowed to drive in certain zones. The fine is 80€. This is rather serious as in some areas the air quality is extremely bad. The restriction is about the particle emissions (how the engine burns the fuel) so there is nothing we could do about it. 
+
+<b> IMPORTANT NOTE: The restriction is ONLY about diesel cars. Gasole cars can drive freely no matter how fuel efficient they are.</b>
 
 Currently the only diesel cars allowed to drive in Stuttgart/Leonberg are thoses with a EURO-class of 5 or more, however the change from "class 4" to "class 5" is relatively new so there is a transition period (I am currently driving an EURO-class 4 and do not have problems with it). For the sake of the environment we'll highly recommand anyone who plans on buying/renting/using a car in this area to follow the environmental norms. 
 
@@ -195,11 +197,13 @@ If you are driving a diesel car, you will need a Umwelt-Plakette. You can buy th
 Info: 
 <br/>
 [Umwelt Plakette Website](https://www.umwelt-plakette.de/en/information-about-german-environmental-badge/environmental-zones-in-germany/german-environmental-zones.html)
+<br/>
 [Stuttart Info](https://www.umwelt-plakette.de/en/information-about-german-environmental-badge/environmental-zones-in-germany/german-environmental-zones/stuttgart.html)
+<br/>
 [Green-Zone EU app](https://www.green-zones.eu/en/info-apps/information-offers/the-green-zones-app.html)
 <br/>
 
-<b> IMPORTANT NOTE: </b> The english website says that EURO-class 4 are allowed in Stuttgart, however, this was changed. From April 1st, 2019, only EURO-class 5 and higher are allowed. 
+<b> IMPORTANT NOTE: The english website says that EURO-class 4 are allowed in Stuttgart, however, this was changed. From April 1st, 2019, only EURO-class 5 and higher are allowed. </b> 
 
 <h3 id= "bank"> 2.3 Bank</h3>
 
