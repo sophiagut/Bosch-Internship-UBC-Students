@@ -65,7 +65,7 @@ to peacefully come to Stuttgart!
   </li>
  <li> <a href = "#learning_german"> 4. Learning German</a>
   <ul>
-   <li><a href = "#learning_german_how"> 4.1 How?</a></li>
+   <li><a href = "#learning_german_why"> 4.1 Why?</a></li>
    <li><a href = "#tools_and_resources"> 4.2 Helpful tools and resources</a></li>
   </ul>
  </li>
@@ -238,9 +238,40 @@ Info:
 
 <h2 id="learning_german"> 4. Learning German </h2>
 
-<h3 id="learning_german_how"> 4.1 How? </h3>
+<h3 id="learning_german_why"> 4.1 Why? </h3>
+
+You don’t need to learn German to perform well at Bosch. But boy, oh boy, it will enrich your experience and time in Germany immensely. It will take time, energy, and extra effort. However, you will learn to think differently and connect with others in ways you may not be able to in English. (e.g. A classical reading of Rammstein by Tom Walther)
 
 <h3 id="tools_and_resources"> 4.2 Helpful tools and resources </h3>
+
+There are many resources out there to aid you in learning German if you’re interested. Find stuff that works for your brain and you enjoy doing on a daily basis. Below are a few resources we’ve found to be helpful.
+
+<li> Duolingo: 
+<li> Great for getting started and building a foundation of the language. Best if used daily. At first, it can seem silly and childish. But as you advance, you can start to recognize patterns in the language and it can become a powerful tool.
+</li></li>
+<li> Google Translate:
+ <li>Great when you really need a quick translation. You can download languages to your phone, translate text directly from photos and more. </li>
+ </li>
+ <li> Podcasts:
+ <li>There are a lot of podcasts out there trying to teach you German. Below are a few that have been worth a listen that can be found through Apple Podcasts and other platforms.</li>
+ <li> Slow German mit Annik Ruben: <a href= "https://slowgerman.com/"> link here </a>
+ <li> This one is exactly what the title sounds like. Episodes are usually 10-15 minutes long. Annik talks 100% in German, slowly. A complete transcript can be found in the episode description, making it easy to follow along and pick out words you want to review later. Episodes are typically about German culture, history or geography. When first starting out, don’t worry about understanding every word. Listen and read for words you recognize. Try and learn new words from the context of the episode. </li>
+ </li>
+ <li>Coffee Break German: <a href= "https://radiolingua.com/category/coffee-break-german/"> link here </a>
+ <li>Mostly in English, this podcast will explain grammar rules and teach you new German vocabulary. It also invites you to practice speaking aloud and recall phrases from previous episodes.</li></li>
+ </li>
+ <li> TV shows:
+ <li>Great for immersing yourself into the German language and culture. You can play most shows with English or German subtitles while listening in German. The shows below can be found on Netflix.
+  <li> Dark </li>
+  <li> How to Sell Drugs Online (Fast) </li>
+  <li> Babylon Berlin </li>
+  </li>
+  </li>
+  <li> Native German speakers 
+ <li>Most Germans appreciate others who are working to learn German. Reach out to your new colleagues and friends for help with pronunciations and translations. Practice speaking with them and ask for feedback. </li>
+ </li>
+  
+ 
 
 <h2 id="life_in_stuttgart"> 5. Life in Stuttgart </h2>
 
