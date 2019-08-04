@@ -140,7 +140,7 @@ PROS:
 <li> Free </li>
 <li> Fast (40 min from Downtown) </li>
 <li> Wifi + AC </li>
-<li> Several buses other the day </li>
+<li> Several buses other the day </li><br/>
 CONS: <br/><br/>
  <&#39none> <br/><br/>
  
@@ -156,12 +156,12 @@ PROS:
 <li> Car share: you can register as driver to reduce your expenses or guest to join a driver </li>
 <li> Locations: buses/train can be annoying from time to time and the car share system is allowing to bypass that </li>
 <li> Social: it can be good to force you to practice German, every day for your commute </li>
-<li> Money: pay directly from the app so you don't have to do anything in this regard </li>
+<li> Money: pay directly from the app so you don't have to do anything in this regard </li><br/>
 
 CONS: 
 <li> Users: not many  </li>
 <li> App: app design isn't the most intuitive and it is also relatively new </li>
-<li> Registration: you need a Bosch email address, you can register to it only after starting work </li>
+<li> Registration: you need a Bosch email address, you can register to it only after starting work </li><br/>
 
 SPLTr will probably become onof the best commuting car sharing apps for the Bosch community. However, I would not rely on it when house hunting
 
