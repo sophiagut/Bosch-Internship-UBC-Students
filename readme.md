@@ -188,6 +188,10 @@ There is an environment restriction for diesel cars. Some diesel cars are not al
 
 Currently the only diesel cars allowed to drive in Stuttgart/Leonberg are thoses with a EURO-class of 5 or more, however the change from "class 4" to "class 5" is relatively new so there is a transition period (I am currently driving an EURO-class 4 and do not have problems with it). For the sake of the environment we'll highly recommand anyone who plans on buying/renting/using a car in this area to follow the environmental norms. 
 
+<br/>
+![](assets/images/umwelt-plakette.jpg)
+<br/>
+
 If you are driving a diesel car, you will need a Umwelt-Plakette. You can buy them at any car retail store (7€) or any civil office. You will only need to bring your car papers with your driving license, there isn no further document required. 
 
 Info: 
