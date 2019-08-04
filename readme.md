@@ -168,6 +168,16 @@ SPLTr will probably become onof the best commuting car sharing apps for the Bosc
 
 <h4 id="s_bahn"> 2.2.3 S-Bahn/U-Bahn </h4>
 
+The S-Bahn transport map.
+![](assets/images/stuttgart-s-bahn-map.PNG)
+
+The U-Bahn transport map.
+![](assets/images/stuttgart-u-bahn-map.JPG)
+
+It is important to know that the cost to travel in zone 1 is 2.50€ (2.37€ if you pass by the official VVS app, internet required). The cost to travel to Renningen from StadtMitte is ~5.50€ (~11.00€ for a two way traject). The cheapest option is to travel in zone one to take the city-link. 
+
+There are student plans and other plans available but since I am not using them I cannot help. The handsome and extroardinary  Mahdin will fill this section.
+
 <h4 id="driving"> 2.2.4 Driving </h4>
 
 <h3 id= "bank"> 2.3 Bank</h3>
