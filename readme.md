@@ -118,8 +118,8 @@ Arriving in Stuttgart can be stressful since most of us are not europeans nor sp
 
 <h3 id="find_place"> 2.1 Find a place </h3>
 
-The most important thing to know before you start looking for a place to stay at is commute and the transport system. (Refer to section <a href="#commuting"> 2.2</a>)
-It is encouraged to be present when house hunting. There sometimes is scams happening and being present to visit the place is preferable (even if you don't speak German). 
+The most important thing to know before you start looking for a place to stay at is commute and the transport system (Refer to section <a href="#commuting"> 2.2</a>).
+It is encouraged to house hunt in person instead of doing it from the Canada. There sometimes is scams happening and being present to visit the place is preferable (even if you don't speak German). 
 
 For example, Sophia and I visited an attractive place in Renningen mid-May, just to learn afterward that the renting started early August. 
 
