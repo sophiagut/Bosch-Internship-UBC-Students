@@ -191,9 +191,12 @@ Currently the only diesel cars allowed to drive in Stuttgart/Leonberg are thoses
 If you are driving a diesel car, you will need a Umwelt-Plakette. You can buy them at any car retail store (7€) or any civil office. You will only need to bring your car papers with your driving license, there isn no further document required. 
 
 Info: 
-[Umwelt Plakette Website] (https://www.umwelt-plakette.de/en/information-about-german-environmental-badge/environmental-zones-in-germany/german-environmental-zones.html)
-[Stuttart Info] (https://www.umwelt-plakette.de/en/information-about-german-environmental-badge/environmental-zones-in-germany/german-environmental-zones/stuttgart.html)
-[Green-Zone EU app] (https://www.green-zones.eu/en/info-apps/information-offers/the-green-zones-app.html)
+[Umwelt Plakette Website](https://www.umwelt-plakette.de/en/information-about-german-environmental-badge/environmental-zones-in-germany/german-environmental-zones.html)
+<br/>
+[Stuttart Info](https://www.umwelt-plakette.de/en/information-about-german-environmental-badge/environmental-zones-in-germany/german-environmental-zones/stuttgart.html)
+<br/>
+[Green-Zone EU app](https://www.green-zones.eu/en/info-apps/information-offers/the-green-zones-app.html)
+<br/>
 
 <b> IMPORTANT NOTE: </b> The english website says that EURO-class 4 are allowed in Stuttgart, however, this was changed. From April 1st, 2019, only EURO-class 5 and higher are allowed. 
 
