@@ -144,7 +144,8 @@ PROS:
 CONS: <br/><br/>
  <&#39none> <br/><br/>
  
-NOTE: You will not be able ot find any information about the city link online. This is a service we usually learn about when we arrive. However we belive it should be known beforehand as it would have changed the location we live at. <a href="https://www.instagram.com/klingelreisen/p/BpFZSM1nGyR/"> City-Link-beautiful-picture-found-online </a>
+NOTE: You will not be able ot find any information about the city link online. This is a service we usually learn about when we arrive. However we belive it should be known beforehand as it would have changed our house hunting plans. 
+<a href="https://www.instagram.com/klingelreisen/p/BpFZSM1nGyR/"> City-Link-beautiful-picture-found-online </a>
 
 NOTE2: I only know about Bosch Renningen but I bet other location will have something similar. Feel free to contact (try) other interns at other location to ask for it. If it exist, feel free to contact me so I can edit the document. 
 
