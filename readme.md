@@ -136,11 +136,34 @@ The City-Link will be your favourite ressource! City-Link is a commuting system 
 
 City-link is two FREE buses for employees living in Stuttgart downtown. The Bus is direct to Renningen and can pick people up at two bus stops> Rotebühlplatz and Swartzstraße. The buses have wifi and AC. This is a free service provided by Bosch... and honestly it is a life saver. It allows people who does not want to spend 300€ for a student travel pass to still be able to live in Stuttgart Downtown. 
 
+PROS: 
+<li> Free </li>
+<li> Fast (40 min from Downtown) </li>
+<li> Wifi + AC </li>
+<li> Several buses other the day </li>
+CONS: 
+<none>
+ 
 NOTE: You will not be able ot find any information about the city link online. This is a service we usually learn about when we arrive. However we belive it should be known beforehand as it would have changed the location we live at. <a href="https://www.instagram.com/klingelreisen/p/BpFZSM1nGyR/"> City-Link-beautiful-picture-found-online </a>
 
 NOTE2: I only know about Bosch Renningen but I bet other location will have something similar. Feel free to contact (try) other interns at other location to ask for it. If it exist, feel free to contact me so I can edit the document. 
 
 <h4 id="splr"> 2.2.2 SPLTr </h4>
+
+SPTLr is another ressource from Bosch to help employees to commute to work. SPTLr is a car share app that allows anyone using it to either register as Driver or Guest. That allows employees living in remote areas to commute together in order to reduce the costs (and carbon footprint). The app is relatively new and still need improvement as not many people is using it. However that can still be a ressource worth looking into. 
+
+PROS:
+<li> Car share: you can register as driver to reduce your expenses or guest to join a driver </li>
+<li> Locations: buses/train can be annoying from time to time and the car share system is allowing to bypass that </li>
+<li> Social: it can be good to force you to practice German, every day for your commute </li>
+<li> Money: pay directly from the app so you don't have to do anything in this regard </li>
+
+CONS: 
+<li> Users: not many  </li>
+<li> App: app design isn't the most intuitive and it is also relatively new </li>
+<li> Registration: you need a Bosch email address, you can register to it only after starting work </li>
+
+SPLTr will probably become onof the best commuting car sharing apps for the Bosch community. However, I would not rely on it when house hunting
 
 <h4 id="s_bahn"> 2.2.3 S-Bahn/U-Bahn </h4>
 
