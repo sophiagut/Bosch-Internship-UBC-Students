@@ -142,7 +142,7 @@ PROS:
 <li> Wifi + AC </li>
 <li> Several buses other the day </li>
 CONS: 
-<none>
+ <&#39none>
  
 NOTE: You will not be able ot find any information about the city link online. This is a service we usually learn about when we arrive. However we belive it should be known beforehand as it would have changed the location we live at. <a href="https://www.instagram.com/klingelreisen/p/BpFZSM1nGyR/"> City-Link-beautiful-picture-found-online </a>
 
