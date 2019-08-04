@@ -125,6 +125,28 @@ The most important thing to know before you start looking for a place to stay at
 <h4 id="renting"> 2.1.3 Renting </h4>
 
 <h5 id="house_registration"> Housing registration </h5>
+
+<h3 id="commuting"> 2.2 Commuting </h3>
+
+<h4 id = "city_link"> 2.2.1 City-Link </h4>
+
+<h4 id="splr"> 2.2.2 SPLTr </h4>
+
+<h4 id="s_bahn"> 2.2.3 S-Bahn/U-Bahn </h4>
+
+<h4 id="driving"> 2.2.4 Driving </h4>
+
+<h3 id= "bank"> 2.3 </h3>
+
+<h4 id="bank_2"> 2.3.1 Go to Deutsche Bank (need better title) </h4>
+
+<h4 id="other_banks"> 2.3.2 Other Banks </h4> 
+
+<h3 id="phoneplan"> 2.4 Phone Plan </h3>
+
+<h4 id="pre_paid"> 2.4.1 Pre-paid </h4>
+
+<h4 id="best_companies"> 2.4.2 Best companies </h4>
   
 <h2 id="work_environment"> 3. Bosch Work Environment </h2>
 
