@@ -174,7 +174,7 @@ The S-Bahn transport map: <br/>
 The U-Bahn transport map: <br/>
 ![](assets/images/stuttgart-u-bahn-map.jpg)
 
-It is important to know that the cost to travel in zone 1 is 2.50€ (2.37€ if you pass by the official VVS app, internet required). The cost to travel to Renningen from StadtMitte is ~5.50€ (~11.00€ for a two way traject). The cheapest option is to travel in zone one to take the city-link. 
+It is important to know that the cost to travel in zone 1 is 2.50€ (2.37€ if you pass by the official VVS app, internet required). The cost to travel to Renningen from Stadtmitte is ~5.50€ (~11.00€ for a two way traject). The cheapest option is to travel in zone one to take the city-link. 
 
 There are student plans and other plans available but since I am not using them I cannot help. The handsome and extroardinary  Mahdin will fill this section.
 
