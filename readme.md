@@ -280,6 +280,7 @@ There are many resources out there to aid you in learning German if you’re int
   </li>
  </ul>
   </li>
+  </ul>
   <ul>
   <li> Native German speakers 
  <ul>
