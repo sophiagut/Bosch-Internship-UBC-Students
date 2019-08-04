@@ -246,9 +246,12 @@ You don’t need to learn German to perform well at Bosch. But boy, oh boy, it w
 
 There are many resources out there to aid you in learning German if you’re interested. Find stuff that works for your brain and you enjoy doing on a daily basis. Below are a few resources we’ve found to be helpful.
 
+<ul>
 <li> Duolingo: 
+ <ul>
 <li> Great for getting started and building a foundation of the language. Best if used daily. At first, it can seem silly and childish. But as you advance, you can start to recognize patterns in the language and it can become a powerful tool.
-</li></li>
+</li>
+ </ul></li>
 <li> Google Translate:
  <li>Great when you really need a quick translation. You can download languages to your phone, translate text directly from photos and more. </li>
  </li>
