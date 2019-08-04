@@ -128,7 +128,15 @@ The most important thing to know before you start looking for a place to stay at
 
 <h3 id="commuting"> 2.2 Commuting </h3>
 
+Commuting to work is maybe the parameter that will most impact your life in Germany. The choice between a 30min and a 1h30 long commute is easy to make (at least for me). The first option allows one to have more free-time. The condition in which you commute is also important. Would you rather have a 1h30 long bus ride with wifi or a 1h30 long train ride with 3 connections and no wifi nor AC. This section is here to help you understand how stuttgart train system works and how you can easily travel to your work place without losing time/energy.
+
 <h4 id = "city_link"> 2.2.1 City-Link </h4>
+
+The City-Link will be your favourite ressource! City-Link is a commuting system by Bosch. NOTE: I only know it for Bosch Renningen but I bet other location will have something similar. 
+
+City-link is two FREE buses for employees in Stuttgart downtown. The Bus is direct to Renningen and can pick people up at two bus stops> Rotebühlplatz and Swartzstraße. The buses have wifi and AC. This is a free service provided by Bosch... and honestly it is a life saver. It allows people who does not want to spend 300€ for a student travel pass to still be able to live in Stuttgart Downtown. 
+
+NOTE: You will not be able ot find any information about the city link online. This is a service we usually learn about when we arrive. However we belive it should be known beforehand as it would have changed the location we live at. <a href="https://www.instagram.com/klingelreisen/p/BpFZSM1nGyR/"> City-Link-beautiful-picture-found-online </a>
 
 <h4 id="splr"> 2.2.2 SPLTr </h4>
 
