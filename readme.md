@@ -253,26 +253,40 @@ There are many resources out there to aid you in learning German if you’re int
 </li>
  </ul></li>
 <li> Google Translate:
- <li>Great when you really need a quick translation. You can download languages to your phone, translate text directly from photos and more. </li>
+ <ul>
+ <li>Great when you really need a quick translation. You can download languages to your phone, translate text directly from photos and more. </li></ul>
  </li>
  <li> Podcasts:
+  <ul>
  <li>There are a lot of podcasts out there trying to teach you German. Below are a few that have been worth a listen that can be found through Apple Podcasts and other platforms.</li>
  <li> Slow German mit Annik Ruben: <a href= "https://slowgerman.com/"> link here </a>
+  <ul>
  <li> This one is exactly what the title sounds like. Episodes are usually 10-15 minutes long. Annik talks 100% in German, slowly. A complete transcript can be found in the episode description, making it easy to follow along and pick out words you want to review later. Episodes are typically about German culture, history or geography. When first starting out, don’t worry about understanding every word. Listen and read for words you recognize. Try and learn new words from the context of the episode. </li>
+  </ul>
  </li>
  <li>Coffee Break German: <a href= "https://radiolingua.com/category/coffee-break-german/"> link here </a>
- <li>Mostly in English, this podcast will explain grammar rules and teach you new German vocabulary. It also invites you to practice speaking aloud and recall phrases from previous episodes.</li></li>
+  <ul>
+ <li>Mostly in English, this podcast will explain grammar rules and teach you new German vocabulary. It also invites you to practice speaking aloud and recall phrases from previous episodes.</li></ul></li>
  </li>
+  </ul>
  <li> TV shows:
+  <ul>
  <li>Great for immersing yourself into the German language and culture. You can play most shows with English or German subtitles while listening in German. The shows below can be found on Netflix.
+  <ul>
   <li> Dark </li>
   <li> How to Sell Drugs Online (Fast) </li>
   <li> Babylon Berlin </li>
+  </ul>
   </li>
+ </ul>
   </li>
+  </ul>
   <li> Native German speakers 
+ <ul>
  <li>Most Germans appreciate others who are working to learn German. Reach out to your new colleagues and friends for help with pronunciations and translations. Practice speaking with them and ask for feedback. </li>
+ </ul>
  </li>
+ </ul>
   
  
 
