@@ -114,13 +114,24 @@ Aie aie aie you're in trouble! The easiest for you is to go to Torronto an have 
 
 <h2 id="settling_stuttgart"> 2. Settling Down in Stuttgart </h2>
 
+Arriving in Stuttgart can be stressful since most of us are not europeans nor speak German. This section contains tips and ressources that you could use to "easy" your settling and start enjoying a life without problems... and administration. For records, it took Sophia and I about a months to fully settle down here. A... Stressful month. I would recommand to arrive in Stuttgart one or two week before your internship starts so you can deal with the housing/phone/bank. 
+
 <h3 id="find_place"> 2.1 Find a place </h3>
 
-The most important thing to know before you start looking for a place to stay at is commute and the transport system. (Refer to section 2.2) 
+The most important thing to know before you start looking for a place to stay at is commute and the transport system. (Refer to section 2.2)
+It is encouraged to be present when house hunting. There sometimes is scams happening and being present to visit the place is preferable (even if you don't speak German). 
+
+For example, Sophia and I visited an attractive place in Renningen mid-May, just to learn afterward that the renting started early August. 
 
 <h4 id="air_bnb"> 2.1.1 Air Bnb </h4>
 
+Air bnb is always a great ressource to quickly find a transition place until you get your appartment/room. People hosting you are usually really kind and are willing to help you out with your translations/house registration/etc. You can get familiar with the city without stressing over a logement. 
+
 <h4 id="stuttgart_lonberg"> 2.1.2 Stuttgart and other areas </h4>
+
+Stuttgart might sound attractive but it is EXTREMELY expensive. More than half our poor salary can go for rent if we're not careful. Chosing a place closer to Renningen might be a good choice. We would recommand Leonberg and it's environt. Wie-der-Stadt could also be a good choice (only two S-bahn station away). 
+
+Finding a place in Renningen would be best but also expensive. This is due that the two main economic actors in Renningen are Bosch (1200 employees), and the American military base. As a result people move a lot in and out of Renningen so the prices goes up.
   
 <h4 id="renting"> 2.1.3 Renting </h4>
 
