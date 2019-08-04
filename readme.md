@@ -190,7 +190,6 @@ Currently the only diesel cars allowed to drive in Stuttgart/Leonberg are thoses
 
 <br/>
 ![](assets/images/umwelt-plakette.jpg)
-<br/>
 
 If you are driving a diesel car, you will need a Umwelt-Plakette. You can buy them at any car retail store (7€) or any civil office. You will only need to bring your car papers with your driving license, there isn no further document required. 
 
