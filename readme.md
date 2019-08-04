@@ -188,16 +188,15 @@ There is an environment restriction for diesel cars. Some diesel cars are not al
 
 Currently the only diesel cars allowed to drive in Stuttgart/Leonberg are thoses with a EURO-class of 5 or more, however the change from "class 4" to "class 5" is relatively new so there is a transition period (I am currently driving an EURO-class 4 and do not have problems with it). For the sake of the environment we'll highly recommand anyone who plans on buying/renting/using a car in this area to follow the environmental norms. 
 
-<br/>
 ![](assets/images/umwelt-plakette.jpg)
 
 If you are driving a diesel car, you will need a Umwelt-Plakette. You can buy them at any car retail store (7€) or any civil office. You will only need to bring your car papers with your driving license, there isn no further document required. 
 
 Info: 
 <br/>
-<li>[Umwelt Plakette Website](https://www.umwelt-plakette.de/en/information-about-german-environmental-badge/environmental-zones-in-germany/german-environmental-zones.html)</li>
-<li>[Stuttart Info](https://www.umwelt-plakette.de/en/information-about-german-environmental-badge/environmental-zones-in-germany/german-environmental-zones/stuttgart.html)</li>
-<li>[Green-Zone EU app](https://www.green-zones.eu/en/info-apps/information-offers/the-green-zones-app.html)</li>
+[Umwelt Plakette Website](https://www.umwelt-plakette.de/en/information-about-german-environmental-badge/environmental-zones-in-germany/german-environmental-zones.html)
+[Stuttart Info](https://www.umwelt-plakette.de/en/information-about-german-environmental-badge/environmental-zones-in-germany/german-environmental-zones/stuttgart.html)
+[Green-Zone EU app](https://www.green-zones.eu/en/info-apps/information-offers/the-green-zones-app.html)
 <br/>
 
 <b> IMPORTANT NOTE: </b> The english website says that EURO-class 4 are allowed in Stuttgart, however, this was changed. From April 1st, 2019, only EURO-class 5 and higher are allowed. 
