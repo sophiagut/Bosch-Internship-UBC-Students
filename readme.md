@@ -218,9 +218,30 @@ Info:
 
 <h3 id= "bank"> 2.3 Bank</h3>
 
+<p>You need to open a German bank account to get paid. No, you cannot use your Canadain/US/French account instead. Banking in German is a bit different than in Canada. There’s no Interac Transfer and the process is a bit more complicated (i.e. more paperwork). Below are some options with the pros and cons that we’ve learned along the way.</p>
+
 <h4 id="bank_2"> 2.3.1 Go to Deutsche Bank (need better title) </h4>
 
+<h5> Opening an Account </h5>
+<p>While working at Bosch, you can open a Deutsche Bank account for free. Make an appointment online or via phone at a branch close to you. Make sure to bring along your passport, Bosch work contract, and residence registration to the appointment. In roughly 2 meetings with an advisor, you can have a fully working bank account with a debit card ordered.</p>
+
+<p><b>NOTE:</b> If you’re a US citizen, you’ll also need your SSN and will be asked to fill out a tax form for the US government. Ask to fill out this form during the appointment. You won’t need to go through the hassle of printing the form, mailing it in or stopping by the specific bank branch again.</p>
+
+<h5> Pros with Deutsche Bank</h5>
+<li>Their customer service is top notch</li>
+<li>You can withdraw cash from ATMs around Europe without fees at select banks. You can also withdraw cash from your ScotiaBank account without fees from Deutsche Bank ATMs (regardless of if you have an account with Deutsche Bank)</li>
+<li>Online banking. Their phone app is efficient and they’ll help you set everything up in person if you request a meeting</li>
+ 
 <h4 id="other_banks"> 2.3.2 Other Banks </h4> 
+<h5> N26 </h5>
+<p> Anand to fill this section. How to set up an account? Pros and cons of using this bank. </p>
+<h5> Commerzbank </h5>
+<p>From our experiences, Commerzbank is very frustrating to open an account with. While you can try and open an account online without an appointment, you will end up having to prove your identity (bring your passport) at a PostBank or in-person unless you’re a German citizen. If they need to send you your ATM card more than once, they will charge you 5€ each time they send it. They will also charge you when they send you correspondence through the mail. 
+
+If you feel the need to open an account with Commerzbank here are some tips so hopefully you don’t get ripped off:
+<li> Be prepared to provide an address where you can receive mail at and you are registered with the German authorities. This is how you receive your ATM card. In Germany, mail is delivered based on the name on the postbox. If you’re name is not on the postbox, provide a care-of (CO) name that is on the postbox along with the address </li>
+<li> As soon as you have access to your online banking, opt out of receiving mail through the post. This means they will send you correspondence online and won’t charge you for it </li>
+</p>
 
 <h3 id="phoneplan"> 2.4 Phone Plan </h3>
 
