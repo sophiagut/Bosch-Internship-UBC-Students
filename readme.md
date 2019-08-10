@@ -4,7 +4,7 @@
 Hello! Welcome to this .git page. In this repository, UBC students will explain everything needed 
 to peacefully come to Stuttgart! 
 
-Add a note here about how to edit this page if you're currently in Germany
+Add a note here about how to update this page if you're currently in Germany.
 
 ## Table of Contents  
 <ul>
@@ -91,7 +91,7 @@ some filler text, but wow you should apply to BOSCH 'cause they absolutely DO NO
  
 <h3 id="insurance"> 1.1 Insurance </h3>
   
-You need health insurance to live and work in Germany. If you're a non-EU citizen, this is a crucial component of applying for your residence permit.
+You need health insurance to live and work in Germany. If you're a non-EU citizen, this is a crucial component of applying for your residence permit, which allows you to work in Germany.
 
 <h4 id="ams"> 1.1.1 Qualifying for AMS Student Care </h4>
 
