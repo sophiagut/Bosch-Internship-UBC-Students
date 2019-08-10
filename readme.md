@@ -252,10 +252,32 @@ If you feel the need to open an account with Commerzbank here are some tips so h
 <h2 id="work_environment"> 3. Bosch Work Environment </h2>
 
 <h3 id="getting_paid"> 3.1 Getting Paid at Bosch </h3>
+<p> The first day of work your supervisor will send you an “intern welcome” email. In this email, there will be a link to a form that you NEED to submit to HR as soon as possible in order to get paid (PLEASE FILL THE GERMAN FORM AS THE ENGLISH FORM DOESN’T COUNT FOR HR). This form will ask you for German SIN that you will get at the civil office after registering your housing. Why is this “SIN” important? Part of it refers to your tax class. In germany there are different tax classes, and without a tax number provided by the civil office you’ll be charged at the highest rate. And yeah… losing 120€ at the end of your first month isn’t the most pleasant experience. So please, make sure you request the “sin” right after registering your housing. </p>
 
 <h3 id="food"> 3.2 Food - Intern Discount </h3>
 
+Don’t worry about bringing lunch with you. At Renningen, there is a cafeteria where everyone eats. It’s open weekdays from 11:30-14:30. As an intern, you receive a discount of X.XX€ on every meal. Depending on what you choose to eat, you typically spend 1.30€ to 3€ per meal. You pay for food with your Bosch ID card. Your balance can be refilled with cash at the kiosk directly outside the cafeteria.  
+
+<h4>Cafe</h4>
+
+There’s also a cafe on campus where you can purchase breakfast, lunch and snacks. Sadly, no discounts are available for interns here but you can use cash and your Bosch card for purchases. 
+
+<h4>Coffee and Snacks</h4>
+
+There’s free coffee, milk and sugar in your office! You can make yourself espresso or coffee crema. Be prepared to have the machine notify you German to refill the water tank or dispose of the coffee grinds every once in a while. There’s also coffee machines where you can get fancy coffee by paying with your Bosch card. Vending machines around campus offer snacks for purchase with your Bosch card as well. These vending machines can also be used to check your balance on your Bosch card before heading to the caf for lunch. 
+
+<h4> Fun fact </h4>
+
+On the building 131 floor 2, if ever you forget to lock your computer and someone sees it. He'll send an email to the whole floor saying you will bring cake. Yeah... don't forget to lock your computer or you'll have to bring cake for everyone!
+
+
 <h3 id="flex_time"> 3.3 Flex time/Vacation </h3>
+
+Each day, you are expected to work 7 hours and take 45 minutes for lunch and breaks. Due to German law, you may not work longer than 10 hours. Your working time is tracked when you tap your card upon arrival to Bosch and when you tap out at the end of the day. You can find all of this documented in the your Time Management page within Bosch’s internal HR pages. You can also adjust your break time to up to an hour. 
+
+Flex time is the time management schedule the interns are working with. In order to avoid paying interns for overtime, Bosch will instead “store” the hours you have to be redeemed. An example would be: if one day you work 10h, the other day you can leave work early after 5h30 in. As long as the combined time for two days is 15h30, you will be fine. That also means that if you work 10h per day (monday, tuesday, wednesday and thursday), you can have a 3-day weekend by using your flex time instead of your vacation time! In the Time Management page, when you take a day off of work, you create an entry and specify if the time off is vacation or flex-time. 
+
+Depending on the length of your internship, you’ll receive some vacation days which can be found in your contract. 
 
 <h2 id="learning_german"> 4. Learning German </h2>
 
@@ -322,7 +344,25 @@ There are many resources out there to aid you in learning German if you’re int
 
 <h3 id="travels"> 5.3 Travel, etc... </h3>
 
+Wanna explore Milan? Head to Paris? Go for it! Here’s a few of our tips that we’ve learned through our experiences. 
+
+<ul>
+ <li>If traveling on a budget, look for hostels. Usually reasonably priced, you can get a bed and a place to shower, sometimes breakfast too. If you’re lucky, you may meet some fellow travelers and make some friends. Pro tip: most hostels have lockers to secure your stuff while you’re out exploring. Bring a lock with you to take advantage of this.</li>
+ <li> Pack light. Most transportation options limit the number of bags you can take and their size and weight. Be aware of this or you may have to pay extra. </li>
+ <li>Schedule your transportation and accommodations early. This may seem like a no-brainer, but you can save quite a bit moola with a little advanced planning. </li>
+ <li> Planes, trains, and automobiles, oh my! There’s quite a few options to get around.
+  <ul>
+   <li>Planes - best for quick long distance travel throughout Europe. Schedule early if you can for the best deals</li>
+   <li>Trains - good if you wanna see the land you’re passing through. Usually pretty comfty with plenty of leg room and space to sleep (and often wifi onboard).</li>
+   <li>Buses - FlixBus is cheap. Can usually take about the same time as trains, but less comfy and sometimes cheaper. Be prepared for stops along the way, some delays, and random customs searches.</li>
+   <li>Car-share services like BlaBlaCar </li>
+  </ul>
+ </li>
+</ul>
+
 <h3 id="expats_stuttgart"> 5.4 Expats in Stuttgart FB group </h3>
+
+This group is a helpful resource and community. Comprised of mostly english speakers, you can pose questions to the group, join events, and meet other expats living in Stuttgart. Have a question about living in Germany? Ask it here. Often, there are events every weekend around town.
 
 <h2 id="bonus"> 6. Bonus: Like a bOsCh </h2>
 
