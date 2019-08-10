@@ -1,8 +1,10 @@
 <!-- toc -->
 # A SMALL GUIDE TO SETTLE DOWN IN STUTTGART AS UBC STUDENT
 
-Hello! Welcome to this .git page. In this repository, several UBC students will talk and explain as detailed as possible everything needed 
+Hello! Welcome to this .git page. In this repository, UBC students will explain everything needed 
 to peacefully come to Stuttgart! 
+
+Add a note here about how to edit this page if you're currently in Germany
 
 ## Table of Contents  
 <ul>
@@ -89,15 +91,17 @@ some filler text, but wow you should apply to BOSCH 'cause they absolutely DO NO
  
 <h3 id="insurance"> 1.1 Insurance </h3>
   
-You need health insurance to live and work in Germany. This is a crucial component of applying for your residence permit (if you’re a non-EU citizen).
+You need health insurance to live and work in Germany. If you're a non-EU citizen, this is a crucial component of applying for your residence permit.
 
 <h4 id="ams"> 1.1.1 Qualifying for AMS Student Care </h4>
 
-AMS Student Care health insurance coverage is part of your student fees at UBC. Part of this coverage includes travel health insurance. However, this health insurance is only active (regardless of if you paid for it with your co-op tuition) if you are paying for MSP (provided by the providence of British Columbia) or a similar basic health insurance for BC.
+AMS Student Care health insurance coverage is part of your student fees at UBC. Part of this coverage includes travel health insurance. However, this health insurance is only active (regardless of if you paid for it with your co-op tuition) if you are paying for MSP (provided by the providence of British Columbia) or a similar basic private health insurance for BC.
 
-You only qualify for MSP if you are living as a residence in BC. If you leave BC for up to 6 months, this is ok. You can continue to pay for MSP online and you will still qualify for the travel health insurance with AMS Student Care. Anything longer than 6 months
+You only qualify for MSP if you are living as a residence in BC. If you leave BC for up to 6 months, this is ok. You can continue to pay for MSP online and you will still qualify for the travel health insurance with AMS Student Care. If you are away from BC for longer than 6 months, you will need to purchase basic private health insurance for BC in order to qualify for the travel health insurance with AMS Student Care once you are gone for longer than 6 months. 
 
 <h4 id="leaving_ubc_else"> 1.1.2 Other Options </h4>
+
+If you recieve health insurance through a parent or family member, this is usually a good alternative to AMS Student Care travel health insurance. 
 
 <h3 id="visa"> 1.2 Visa </h3>
 
@@ -106,7 +110,27 @@ You only qualify for MSP if you are living as a residence in BC. If you leave BC
 
 <h4 id="us_citizens"> 1.2.1 US citizens </h4> 
 
-Aie aie aie you're in trouble! The easiest for you is to go to Torronto an have the Visa processed here. If Torronto is not possible, prepare for battle with the German administration! 
+As a US citizen, you have two options to apply for your visa: 
+
+1. Before moving to Germany, schedule an appointment with the Toronto German Consulate, and fly to Toronto with all the required documentation for your visa application. You will need x,x,x,x,x, and x. The German Consulate will process your information and hold onto your passport until you are issued your visa. This typically takes a few days, unless there are issues with your application. This option is the best for ensuring you can begin your work term at Bosch on time.  
+
+NOTE: Scheduling an appointment early with the Toronto German Consulate is key. Appointments book quickly and you may end up having to leave UBC during exams and end of term to take care of your visa. This can be extra stressful and not fun. So save yourself the stress and book it early. 
+
+NOTE: Ok. I'm a US citizen though. Why do I need to go all the way to Toronto to apply for a visa? The simiplest answer is this is the way the German government decided to set up their consulates. You must apply for visas and permits in your country of residence (most likely Canada) and not your country of citizenship. Not all consulates process visa and permit applications (Vancouver's consulate does not), so Toronto is where you gotta go. This is your first taste of German bureaucracy - hold on tight, it's gonna be a wild ride.  
+
+2. Arrive in Germany at least a month before you are scheduled to begin your work term at Bosch. As a US citizen, you can reside in Germany for up to 90 days without a visa. Upon arriving, immediately contact the Ausländerbehörde (aka the Foreigners Authority) to set up an appointment for your residence application. There is a specific phone number you can call based on your last name or you can submit an email requesting an appointment. To find this number and more information about setting up an appointment, visit this website https://www.stuttgart.de/item/show/318412. It is incredibly important when you request an appointment that you stress the time sensitivity of your situation. Include that you are a US citizen, a student trying to start an internship, and when you are scheduled to start employment. Typically, appointments can take months to schedule. But by pleading your case in your first communications, they will usually work to schedule your appointment within a month.  
+
+Once you have an appointment scheduled, you will recieve a list of documents to submit. These may include: Antragsformular (application form), Praktikumsvertrag (employment contract), Zustimmung der Agentur für Arbeit (ZAV) (approval from the employment agency), (aktueller Wohnraumnachweis vom Eigentümer unterzeichnet und Kopie Mietvertrag) your housing certificate signed by the person owning the property and your rental contract, and aktueller Krankenversicherungsnachweis (proof of health insurance coverage in Germany). Typically, you will be asked to submit these documents via email prior to your appointment date.  
+
+NOTE: Make sure your employment contract lists the correct start and end dates of your work term. Bosch is responsible for obtaining approval from the employment agency. This approval is only granted for the dates within your work contract and therefore your residence permit is only granted for the dates within your work contract. 
+
+NOTE: The proof of health insurance coverage in Germany can be difficult to obtain. In some cases, they may ask you to have your insurance company sign a form. Once you recieve the form from the German authorities, immediately begin the process of contacting your insurance to sign the form. Without the signed form, they will not grant you a residence permit regardless of the other documentation you provide to prove your health insurance. 
+
+To the appointment, make sure to bring with you
+-a printed version of the documents you were asked to submit if possible,
+-your passport, 
+-two biometric photos (the restrictions for these photos can be found here - https://www.schengenvisainfo.com/photo-requirements/), 
+-and the fee for the permit. 
 
 <h3 id="looking_for_house"> 1.3 Looking for housing before arriving </h3>
 
