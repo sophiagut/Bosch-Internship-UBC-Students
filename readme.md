@@ -151,7 +151,7 @@ There are two options when you look for your own studio/room. Look yourself on s
 
 In any case, I highly encourage everyone to visit the appartments/houses IN PERSON before paying deposit... for many reasons we’ll explain in a section below [link to section].
 
-<h6> “Agencies” <h6>
+<h6> “Agencies” </h6>
 
 One might think that contacting an agency would be a good move… and is right. Agencies are a good resource to help you think a reliable place. Agencies have good quality standards and are only renting places they have a contract with the owner. 
 
@@ -168,10 +168,16 @@ One might think that contacting an agency would be a good move… and is right. 
 <li> <b> Online </b> - Most of </li>
 
 Link to some agencies: 
-[HC24] (https://www.hc24.de/)
-[Home Company - Online only] (https://www.homecompany.de/de/index)
+<a href="https://www.hc24.de/en/furnished-living-space-in-stuttgart.htm">[HC24] </a>
+<a href="https://www.homecompany.de/de/index"> [Home Company - Online only] </a>
 
 BONUS: <a href="https://www.toytowngermany.com/forum/topic/372037-tenant-refuses-to-pay-rentquick-resolution/"> Europe is crazy </a>
+
+<h6> "Do it Yourself" </h6>
+
+Link to websites: 
+<a href="https://www.wg-gesucht.de/">[WG-GESUCHT] </a>
+<a href="https://www.immobilienscout24.de/"> [Immobilienscout24 - closest equivalent to craiglist] </a>
 
 <h5 id="house_registration"> Housing registration </h5>
 
