@@ -162,7 +162,7 @@ One might think that contacting an agency would be a good move… and is right. 
 <li> <b> Paying </b> - You will pay directly to the agency so you have little chances of being scammed (I’ll explain more in the “Do it yourself” section [link to paragraph]). </li>
 <br/>
 <b> Cons: </b> 
-<br/>
+<br/><br/>
 <li> <b> Expensive </b> - the general rule to go by is that you’ll lose 2-3 months of rent a year. In other words, if you decide to rent an apartment with an agency, they’ll increase the prices so they can profit of 2-3 extra months worth of rent. </li>
 <li> <b> Deposit </b> - they will have you pay the first month of rent plus the deposit before you move in. In other words, make sure you have enough money to pay the deposit + first month before you get your first Bosch paycheck. </li>
 <li> <b> Paperwork </b> - They want proof that you will be able to pay for the full extent of your internship (+proof of visa/identity). Why is that? Because in Europe, we cannot kick people living in your place easily, even if they stop paying rent (the process of kicking a tenant out takes 1-2 months). So the agency will be afraid that you will stop paying rent halfway through then cannot kick you out. So it might become a hassle to deal with paperwork but it is to protect both the tenant and the landlord!</li>
