@@ -169,9 +169,9 @@ One might think that contacting an agency would be a good move… and is right. 
 <li> <b> Online </b> - Most of the agencies operates online and through emails. They do not encourage meeting in person to discuss your needs and expectations.</li>
 <br/>
 Link to some agencies: 
-<a href="https://www.hc24.de/en/furnished-living-space-in-stuttgart.htm">[HC24] </a>
-<a href="https://www.homecompany.de/de/index"> [Home Company - Online only] </a>
-
+<li> <a href="https://www.hc24.de/en/furnished-living-space-in-stuttgart.htm">[HC24] </a></li>
+<li> <a href="https://www.homecompany.de/de/index"> [Home Company - Online only] </a></li>
+<br/>
 BONUS: <a href="https://www.toytowngermany.com/forum/topic/372037-tenant-refuses-to-pay-rentquick-resolution/"> Europe is crazy </a>
 
 <h6> "Do it Yourself" </h6>
