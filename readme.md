@@ -135,6 +135,44 @@ Finding a place in Renningen would be best but also expensive. This is due that 
   
 <h4 id="renting"> 2.1.3 Renting </h4>
 
+Finding a place to live in Stuttgart when we live 5000km away can be… quite challenging. Where do we start? Who are we contacting? How? We’ll try to answer these questions in this section. 
+
+<h5> Student Housing </h5>
+<Mahdin/Anand>
+<h5> Bosch Housing </h5>
+
+<Anyone who can help>
+ Bosch sent you a list of <i> available accomodations </i> in your contract... in german. But hey... it still helps.
+
+<h5> Own Appartment </h5>
+
+Renting your own studio is awesome. You don’t have to share any kitchen/shower with roommates. You don’t have quiet hours… YOU CAN BE FREEEEEEEEE. However, it can quickly become expensive and… our poor salary won’t make it to the end of the month. 
+There are two options when you look for your own studio/room. Look yourself on sites such as the german craiglist. The other option is to pass through an agency that will do the scooting for you.
+
+In any case, I highly encourage everyone to visit the appartments/houses IN PERSON before paying deposit... for many reasons we’ll explain in a section below [link to section].
+
+<h6> “Agencies” <h6>
+
+One might think that contacting an agency would be a good move… and is right. Agencies are a good resource to help you think a reliable place. Agencies have good quality standards and are only renting places they have a contract with the owner. 
+
+<b> Pros: </b>
+<li> <b> Speaks English </b> - the communication can be easily done in english. The person will ask you what you are looking for, what are your price ranges, and expectation then will send you offers from time to time that fits your needs. </li>
+<li> <b> Quality Assurance </b>- the apartment rented through an agency will be clean and good. They cannot do false advertising so you’ll pay for what you see online. </li>
+<li> <b> Reliable </b> - The dates of moving in, the rent price, etc… all you will see in the online ad will be “true”. Therefore, you have barely any chances of visiting an apartment that will only be available two months after your visit. </li>
+<li> <b> Paying </b> - You will pay directly to the agency so you have little chances of being scammed (I’ll explain more in the “Do it yourself” section [link to paragraph]). </li>
+
+<b> Cons: </b> 
+<li> <b> Expensive </b> - the general rule to go by is that you’ll lose 2-3 months of rent a year. In other words, if you decide to rent an apartment with an agency, they’ll increase the prices so they can profit of 2-3 extra months worth of rent. </li>
+<li> <b> Deposit </b> - they will have you pay the first month of rent plus the deposit before you move in. In other words, make sure you have enough money to pay the deposit + first month before you get your first Bosch paycheck. </li>
+<li> <b> Paperwork </b> - They want proof that you will be able to pay for the full extent of your internship (+proof of visa/identity). Why is that? Because in Europe, we cannot kick people living in your place easily, even if they stop paying rent (the process of kicking a tenant out takes 1-2 months). So the agency will be afraid that you will stop paying rent halfway through then cannot kick you out. So it might become a hassle to deal with paperwork but it is to protect both the tenant and the landlord!</li>
+<li> <b> Online </b> - Most of </li>
+
+Link to some agencies: 
+[HC24] (https://www.hc24.de/)
+[Home Company - Online only] (https://www.homecompany.de/de/index)
+
+BONUS: <a href="https://www.toytowngermany.com/forum/topic/372037-tenant-refuses-to-pay-rentquick-resolution/"> Europe is crazy </a>
+
 <h5 id="house_registration"> Housing registration </h5>
 
 <h3 id="commuting"> 2.2 Commuting </h3>
